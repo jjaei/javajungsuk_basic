@@ -23,7 +23,7 @@ public class Ex05_10 {
 				System.out.println("정답입니다!");
 			} else {
 				System.out.printf("틀렸습니다! 정답은 %s입니다.%n", words[i][1]);
-			}
+			} 
 		}
 	}
 
